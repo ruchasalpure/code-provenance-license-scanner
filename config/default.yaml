@@ -1,0 +1,6 @@
+app:
+  name: "code-provenance-license-scanner"
+  environment: "production"
+  logging:
+    level: "INFO"
+    format: "json"

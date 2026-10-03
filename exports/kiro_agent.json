@@ -1,0 +1,5 @@
+{
+  "name": "code-provenance-license-scanner",
+  "service": "aws-kiro",
+  "version": "1.0.0"
+}

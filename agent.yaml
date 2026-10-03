@@ -1,0 +1,26 @@
+spec_version: "0.1.0"
+name: "code-provenance-license-scanner"
+version: "1.0.0"
+category: "devtools"
+author: "Rucha Salpure"
+description: "Performs deep AST-level snippet provenance matching and SPDX license compatibility resolution across monorepos and container images"
+capabilities:
+  - "spdx-compatibility-audit"
+  - "autonomous-decision-making"
+  - "explainable-auditing"
+  - "multi-agent-collaboration"
+skills:
+  - "spdx-compatibility-audit"
+tools:
+  - "python_executor"
+  - "audit_logger"
+  - "schema_validator"
+runtime:
+  environment: "python3.11"
+  memory_limit: "4GB"
+  timeout_seconds: 300
+governance:
+  audit_logging: true
+  human_in_the_loop: false
+  maker_checker: true
+  explainability_required: true
