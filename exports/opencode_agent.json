@@ -1,8 +1,0 @@
-{
-  "agent_id": "code-provenance-license-scanner",
-  "protocol": "opencode/v1",
-  "capabilities": [
-    "autonomous",
-    "governed"
-  ]
-}

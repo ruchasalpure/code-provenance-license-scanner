@@ -1,4 +1,0 @@
-spec: nanobot/v1
-name: code-provenance-license-scanner
-runtime: python3.11
-entrypoint: agent.py
